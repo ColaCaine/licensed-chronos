@@ -1,4 +1,4 @@
-Copyright year/date follows the GitHub copyright date direcrly.
+Copyright year/date follows the GitHub copyright date directly.
 
 
 CHRONOS and its contents may not be used, distributed, downloaded, or modified in any way unless explicit permission granted
